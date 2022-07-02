@@ -28,3 +28,11 @@ button{
     padding: 5px;
     margin: 50px 50%;
 }
+ul{
+    background-color: lightsalmon;
+    padding: 10px;
+}
+li{
+    font-size: 24px;
+    color: rgb(231, 28, 231);
+}
