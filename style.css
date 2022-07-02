@@ -4,7 +4,8 @@ body{
 div{
     background: rgb(31, 231, 205);
     width: 50%;
-    height: 600px;
+    
+    
 
 }
 h2{
@@ -25,4 +26,5 @@ button{
     background-color: dodgerblue;
     width: 50px;
     padding: 5px;
+    margin: 50px 50%;
 }
